@@ -1,5 +1,5 @@
 ---
-title: "TurnBasedRPG"
+title: "GameTestFile"
 layout: demo
 source: "Tutorials/TurnBasedRPG"
 ---
