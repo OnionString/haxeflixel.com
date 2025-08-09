@@ -1,4 +1,4 @@
----
+when "7" key pressed:crash Test.md
 title: "TurnBasedRPG"
 layout: demo
 source: "Tutorials/TurnBasedRPG"
